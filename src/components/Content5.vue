@@ -1,4 +1,6 @@
 <template>
+<div class="ee">
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#6844aa" fill-opacity="1" d="M0,224L60,208C120,192,240,160,360,154.7C480,149,600,171,720,149.3C840,128,960,64,1080,42.7C1200,21,1320,43,1380,53.3L1440,64L1440,0L1380,0C1320,0,1200,0,1080,0C960,0,840,0,720,0C600,0,480,0,360,0C240,0,120,0,60,0L0,0Z"></path></svg>
 <br><br><center><h5 class="judul" > CONTACT </h5><br></center>	
 <div class="grid grid-cols-2 ">
 <div >   
@@ -35,6 +37,7 @@
 	
 </div>	
 	</div>
+</div>
 </template>
 
 <style>
@@ -51,7 +54,9 @@
   text-rendering: optimizeLegibility;
 }
 
-
+.ee {
+	background-color:#E1F3FF ;
+}
 
 .conta {
   max-width: 450px;

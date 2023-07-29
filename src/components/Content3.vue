@@ -1,7 +1,7 @@
 <template>
     
     <div class="pp">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#6844aa" fill-opacity="1" d="M0,224L60,208C120,192,240,160,360,154.7C480,149,600,171,720,149.3C840,128,960,64,1080,42.7C1200,21,1320,43,1380,53.3L1440,64L1440,0L1380,0C1320,0,1200,0,1080,0C960,0,840,0,720,0C600,0,480,0,360,0C240,0,120,0,60,0L0,0Z"></path></svg>
+  <br><br><br>
         <center><h5 class="judul" > MY PROJECTT </h5><br></center>
 <main id="main">
 <section id="projects">
@@ -28,9 +28,15 @@
 <div class="project-tile">
 <a href="#" target="_blank"><img src="https://img.freepik.com/free-vector/flat-horizontal-banner-template-world-tourism-day-celebration_23-2150630609.jpg?w=826&t=st=1690549643~exp=1690550243~hmac=af72693dcea42d1b204f0f8e3abdac666c89b400606a5dfdf768c040b4463703"></a><br>
     <center><h1>PROJECT TRAVEL</h1></center>
+    
 </div>
 </section>
-</main></div>
+</main>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#6844aa" fill-opacity="1" d="M0,128L48,160C96,192,192,256,288,250.7C384,245,480,171,576,165.3C672,160,768,224,864,229.3C960,235,1056,181,1152,138.7C1248,96,1344,64,1392,48L1440,32L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
+
+</div>
+
+
 </template>
 
 <style>
@@ -41,7 +47,7 @@
         font-size: 25px;
     }
 .pp {
-    background-color: #E1F3FF;
+    background-color: #ffffff;
 }
 
 .title {

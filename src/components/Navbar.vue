@@ -4,8 +4,8 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
 <template>
     <Navbar style="background-color: #6844aa;">
       <template #logo>
-        <NavbarLogo link="https://www.google.com/" alt="Flowbite logo" image-url="https://flowbite.com/docs/images/logo.svg">
-          Flowbite
+        <NavbarLogo link="https://www.google.com/" alt="Flowbite logo" image-url="https://www.pngarts.com/files/2/Letter-F-Download-PNG-Image.png">
+          FAWWAZ
         </NavbarLogo>
       </template>
       <template #default="{isShowMenu}">
