@@ -6,7 +6,7 @@
   <div class="flex flex-row">
     <div class="basis-1/2">   
       <div class="ml-16">
-        <img class="rounded-full" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=740&t=st=1690605397~exp=1690605997~hmac=ae38d3631d2cb4356c00653aeb3f586738830ed44bdccc7dd72ce8f5e9f23c3b" width="350" alt="">
+        <img class="rounded-full" src="../../image/WhatsApp Image 2023-07-28 at 11.37.09.jpeg" width="350" alt="">
       </div>
     </div>
     <div class="basis-1/4"></div>
