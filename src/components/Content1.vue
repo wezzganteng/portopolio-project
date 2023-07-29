@@ -6,12 +6,16 @@
   <div class="flex flex-row">
     <div class="basis-1/2">   
       <div class="ml-16">
-        <img class="rounded-full" src="../../image/WhatsApp Image 2023-07-28 at 11.37.09.jpeg" width="350" alt="">
+        <img class="rounded-full" src="../assets/fawas.jpeg" width="350" alt="">
       </div>
     </div>
     <div class="basis-1/4"></div>
     <div class="basis-1/2 mr-20">
-      <h5>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestias, id temporibus. Ullam possimus explicabo earum laudantium officiis dignissimos provident quae, ad libero aperiam, iste magnam id beatae voluptatibus obcaecati! Debitis, labore repudiandae. Eum incidunt magnam doloremque molestias nesciunt sapiente exercitationem consequatur aut placeat aperiam nobis accusantium velit minus sint repudiandae ullam, quo nam assumenda, est aspernatur. Velit dignissimos illum ullam culpa nesciunt eos aliquid fugit non quod numquam necessitatibus ipsum doloribus architecto suscipit eligendi, unde sequi accusamus placeat voluptate id totam? Soluta vel minus sunt reprehenderit, iste repellat deserunt quaerat nisi quia inventore dolorum tempore, eaque voluptate cupiditate, ipsum totam sit cumque esse architecto impedit mollitia minima fuga voluptatem sequi. In ducimus nobis quis officiis dicta at cupiditate beatae hic perferendis ratione officia autem repudiandae totam suscipit sint cum debitis aut, corrupti, porro eaque voluptates reprehenderit minus fugiat temporibus! Est, perspiciatis saepe nam eius ducimus consectetur </h5>
+      <h5>NAMA : FAWWAZ ALFAROZ SANAD</h5>
+      <P>TTM   : 20/09/2023</P>
+      <p> UMUR : 17</p>
+      <P>JENIS KELAMIN : LAKI-LAKI</P>
+      <P>HOBY : Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore delectus corporis quam, est neque beatae dolorem pariatur cum. Aliquam amet culpa laborum suscipit qui eligendi accusamus aspernatur eius repudiandae ullam ipsum et consectetur, laboriosam saepe dolore minus, dicta unde cupiditate totam atque quia. Eligendi quasi, illum voluptate ipsum quae autem aspernatur rerum quisquam eum, aliquam officiis ad ut cupiditate, quas sint. Saepe dolorem doloremque, suscipit qui perspiciatis reprehenderit ex autem fuga? Velit quisquam labore harum cumque fuga neque sit architecto?</P>
           </div>
         </div>
   

@@ -1,7 +1,7 @@
 <template>
   <div class="skills-section my-5">
     <div class="skills-header">
-      <h1 class="text-black text-4xl font-bold my-4">Skills</h1>
+      <h class="text-black text-4xl font-bold my-4">SKILLS</h>
     </div>
     <div class="skills-container">
       <div class="skills-box">
